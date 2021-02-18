@@ -1,0 +1,27 @@
+[
+{ 
+  "name": "Caprese Salad", 
+  "photo": "https://www.cookingclassy.com/wp-content/uploads/2020/07/caprese-salad-33-500x500.jpg",
+  "rating": 4
+},
+{ 
+  "name": "Chicken and Potatos", 
+  "photo": "https://www.eatwell101.com/wp-content/uploads/2018/05/Garlic-Butter-Chicken-and-Potatoes-Skillet.jpg",
+  "rating": 5
+},
+{ 
+  "name": "Pasta with Meatballs", 
+  "photo": "https://hips.hearstapps.com/delish/assets/17/39/1506456062-delish-spaghetti-meatballs.jpg",
+  "rating": 3
+},
+{ 
+  "name": "Chicken with Vegetables",
+  "photo": "https://simply-delicious-food.com/wp-content/uploads/2019/04/30-minute-grilled-chicken-and-vegetables-3.jpg",
+  "rating": 2
+},
+{ 
+  "name": "Vegetables", 
+  "photo": "https://d1e3z2jco40k3v.cloudfront.net/-/media/mccormick-us/recipes/mccormick/s/800/stir_fry_vegetables_800x800.jpg",
+  "rating": 1
+}
+]
